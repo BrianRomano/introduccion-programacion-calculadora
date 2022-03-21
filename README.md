@@ -1,2 +1,2 @@
 # introduccionProgramacion-calculadora
-Calculadora realizada en la materia: Introducción a la programación - 1er cuatrimestre.
+Introducción a la Programación [1er año | 1er cuatrimestre] - Calculadora con interfaz gráfica.
